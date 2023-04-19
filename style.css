@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,500;1,100;1,200&family=Rubik+Microbe&family=Source+Serif+Pro:ital,wght@0,600;1,700&family=Staatliches&display=swap');
+/* Global Setting */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: poppins;
+    
+}
+h1
+{
+    font-size: 3rem;
+}
+h2{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.5rem;
+}
+/* main div section */
+.logo
+{
+    width: 70px;
+    height: 65px;
+}
+.main-text
+{
+    color: cornflowerblue;
+
+}
+/* button */
+.btn-primary-self
+{
+    width: 125px;
+}
+/* navbar */
+.nav-item{
+    color: black;
+    font-size: 24px;
+
+}
+.nav-link:hover{
+    color: orangered !important;
+}
+/* hero section */
+.your{
+    color: orange;
+}
+.card-hight{
+    min-height: 350px !important;
+}
+.card-pict{
+    width: 200px !important;
+    height: 200px !important;
+    padding-top: 50px !important;
+}
+.card{
+    align-items: center!important;
+    margin-bottom: 10px;
+}
+/*  */
+.i1{
+    align-items: center!important;
+}
+.size-of-container{
+    min-height:400px;
+    color:aliceblue;
+    font-weight:bold ;
+    text-align:center;
+    padding-top:200px ;
+    background-color:hotpink ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    letter-spacing:3px ;
+    font-size:52px !important ;
+}
